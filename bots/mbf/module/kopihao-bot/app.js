@@ -44,8 +44,8 @@ var connector = new builder.ChatConnector({
     //appPassword: process.env.MICROSOFT_APP_PASSWORD
 	//appId: "1ad09807-5683-43d4-9c1b-990382b7da28",
 	//appPassword: "nHbbDSwCXYpdLWhXm7ETFEB"
-	appId: "e3fea5af-90bb-4990-b1a5-0e5cf845544b",
-	appPassword: "9cHpWJX9D6nYJWBLjb0kcRd"
+	appId: "a5f0062d-6197-4942-9733-e073dac6c11c",
+	appPassword: "WxdcJ7BkmD0bf8QXBTPpKBa"
 	});
 var bot = new builder.UniversalBot(connector);
 server.post('/api/messages', connector.listen());
