@@ -1,8 +1,8 @@
 {
-	"name": "yeelynn's bot",
+	"name": "jasper's bot",
 	"version": "1.0.0",
 	"description": "Examples for the Bot Builder framework.",
-	"main": "app.js",
+	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
