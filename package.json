@@ -1,12 +1,9 @@
 {
-	"name": "jasper's bot",
+	"name": "ms-mbf-bot-app-02",
 	"version": "1.0.0",
 	"description": "Examples for the Bot Builder framework.",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "",
+	"main": "app.js", 
+	"author": "Jasper",
 	"license": "ISC",
 	"dependencies": {
 		"body-parser": "^1.15.0",
